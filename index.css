@@ -127,7 +127,7 @@ li a:hover {
   /*border-right: 30px;
   border-right-width: solid;
   border-right-color: rgb(0, 9, 56);*/
-  box-shadow: 20px 40px 10px #ff5e5283;
+  /*box-shadow: 20px 40px 10px #ff5e5283;*/
 
 }
 #vision {
@@ -141,7 +141,7 @@ li a:hover {
   /*border-left-width: 30px;
   border-left: solid;
   border-left-color: rgb(0, 9, 56);*/
-  box-shadow: 20px 40px 10px #b4332f71;
+  /*box-shadow: 20px 40px 10px #b4332f71;*/
   
 
 }
@@ -153,11 +153,11 @@ li a:hover {
 }
 #mission p {
   margin: 4vh;
-  font-size: 4vh;
+  font-size: 3vh;
 }
 #vision p{
   margin: 4vh;
-  font-size: 4vh;
+  font-size: 3vh;
 }
 
 #mission-banner h2 {
