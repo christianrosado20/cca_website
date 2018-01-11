@@ -1,0 +1,191 @@
+body {
+    background-image: url("ccapattern.png");
+    /*background-repeat: repeat-y;*/
+    background-position: center;
+    /*font-family: 'Open Sans Condensed', sans-serif;*/
+
+}
+
+.jumbotron-fluid {
+    background: none;
+    color: white;
+    text-align: center;
+    font-size: 6rem;
+    margin-top: auto;
+    height: 100vh;
+    width: auto;
+    /*margin: auto;*/
+    padding-top: 19%;
+    padding-bottom: 19%;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+.lead {
+    font-size: 2.50rem;
+}
+
+.card {
+    margin: auto;
+    font-size: 1.50rem;
+    margin-top: 15%;
+    
+}
+
+.card-body {
+    min-height: 28rem;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.card-text {
+    font-size: 1.25rem;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.btn.btn-danger {
+    margin: auto 0;
+    margin-left: 24%;
+}
+
+.row {
+    padding-bottom: 15rem;
+}
+
+.footer {
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+    color: white;
+    font-size: 1rem;
+}
+
+.subtitle {
+    text-align: center;
+    color: white;
+    font-size: 6rem;
+    border-bottom: 1px solid white;
+    width: 18%;
+    margin: auto;
+}
+
+.fa-desktop {
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: 25%;
+    margin-right: 30%;
+    font-size: 6rem;
+    text-align: center;
+    margin: center;
+}
+
+.fa-graduation-cap {
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: 25%;
+    margin-right: 30%;
+    font-size: 6rem;
+    text-align: center;
+    margin: center;
+}
+
+.fa-handshake-o {
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: 25%;
+    margin-right: 30%;
+    font-size: 6rem;
+    text-align: center;
+    margin: center;
+}
+
+.fa-cogs {
+    margin-top: 25%;
+    margin-bottom: 6%;
+    margin-left: 25%;
+    margin-right: 30%;
+    font-size: 6rem;
+    text-align: center;
+    margin: center;
+}
+
+.navbar {
+    width: 100%;
+    top: 0;
+}
+
+
+/* Contact us*/
+
+form {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    border-radius: 2px;
+    width: 60%;
+}
+
+.btn.btn-primary {
+    margin-left: 43%;
+    
+}
+
+@media only screen and (min-width: 150px) and (max-width:480px) and (orientation: portrait) {
+    .display-3 {
+        font-size: 1.9rem;
+        width: 100%;
+        align-items: center;
+        margin-top: 60%; 
+    }
+    
+    .lead {
+        font-size: 1rem;
+        align-items: center;
+
+    }
+    
+    .card {
+        max-width: 20rem;
+        min-width: 17rem;
+        margin-bottom: 3%;
+        margin-top: 3%;
+    }
+    
+    
+    .card-title {
+        font-size: 1.75rem;
+        margin: auto;
+        margin-top: 10%;
+    }
+    
+    .card-text {
+        font-size: 1.25rem;
+        margin: auto;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        text-align: center;
+    }
+    
+    .jumbotron-fluid {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+    .subtitle {
+        text-align: center;
+        color: white;
+        font-size: 3rem;
+        border-bottom: 1px solid white;
+        width: 25%;
+        margin: auto;
+    }
+}
